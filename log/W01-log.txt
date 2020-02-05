@@ -1,0 +1,3 @@
+OS 2020 2
+Hello, this is written just in case making W01-log.txt in Github is an assignment of this Week 01.
+- Stefan Kenichi Soaloon, 1806191465
