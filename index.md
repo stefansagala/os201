@@ -6,11 +6,24 @@ Welcome to my Github!
 
 ### Introduction
 
-Hello, my name is Stefan Sagala. I am currently studying Information Systems at Fakultas Ilmu Komputer Universitas Indonesia. I am now in my fourth semester and currently taking Operating Systems course. Due to its final exam, I made this Github Page just to fulfill the requirement. :)
+Nama: Stefan Sagala
+NPM : 1806191465
+Semester : 4
+Jurusan : Sistem Informasi
+Fakultas: Ilmu Komputer
+Universitas: Universitas Indonesia
 
+### Tujuan
 
-### URL to Learn More about Operating Systems
-To understand what I am actually studying for on this course, I would like to share some links you can open to get more information about it. Just hit the button!
+Tujuan pembuatan halaman Github ini adalah untuk melaksanakan salah satu tugas Ujian Akhir Semester matakuliah Sistem Operasi.
+
+### Beberapa URL untuk Mempelajari OS!
+Yuk tekan tulisan di bawah ini untuk memperoleh URL-URL yang bisa dipakai untuk mempelajari OS!
 
 [Click Here](URLs/)
+
+### Mau Kenalan Lebih Lanjut?
+LinkedIn: (https://www.linkedin.com/in/stefansagala/)
+
+### TERIMA KASIH
 
