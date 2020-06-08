@@ -12,5 +12,5 @@ Hello, my name is Stefan Sagala. I am currently studying Information Systems at 
 ### URL to Learn More about Operating Systems
 To understand what I am actually studying for on this course, I would like to share some links you can open to get more information about it. Just hit the button!
 
-[Click Here](https://github.com/stefansagala/os201/URLs). 
+[Click Here](https://github.com/stefansagala/os201/blob/master/url.md). 
 
