@@ -2,7 +2,7 @@
 
 Welcome to my Github!
 
-<a href="https://ibb.co/fYgmsrd"><img src="https://i.ibb.co/pv7CS4j/fotoku.jpg" alt="fotoku" border="0"></a><br /><a target='_blank' href='https://id.imgbb.com/'>ganbar</a><br />
+<a href="https://ibb.co/fYgmsrd"><img src="https://i.ibb.co/pv7CS4j/fotoku.jpg" alt="fotoku" border="0"></a><br /><a target='_blank' href='https://id.imgbb.com/'></a><br />
 
 ### Introduction
 
