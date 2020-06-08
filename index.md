@@ -22,8 +22,8 @@ Yuk tekan tulisan di bawah ini untuk memperoleh URL-URL yang bisa dipakai untuk 
 
 [Click Here](URLs/)
 
-### Mau Kenalan Lebih Lanjut?
-[LinkedIn:] (https://www.linkedin.com/in/stefansagala/)
+### Mau Kenalan Lebih Lanjut? 
+[Hit Me on LinkedIn:] (https://www.linkedin.com/in/stefansagala/)
 
 ### TERIMA KASIH
 
