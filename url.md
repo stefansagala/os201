@@ -2,7 +2,7 @@
 permalink: /URLs/
 ---
 
-# Hello, so here are some URL-s that you can use to get more knowledge about Operating Systems :)
+# ~ Halo, berikut adalah beberapa URL-nya ya! Selamat belajar dan mencoba! ~
 
 <ul>
   <li><a href="https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/">https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/</a></li>
