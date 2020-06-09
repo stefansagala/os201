@@ -24,5 +24,9 @@ Yuk tekan tulisan di bawah ini untuk memperoleh URL-URL yang bisa dipakai untuk 
 [Click Here](URLs/)
 
 
-### TERIMA KASIH
+### TERIMA KASIH ~ JOLAN TRU!
+
+<button type="button" href="https://www.linkedin.com/in/stefansagala/">
+My Linked In
+</button>
 
